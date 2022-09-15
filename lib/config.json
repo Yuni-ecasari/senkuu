@@ -10,8 +10,8 @@
   "self": false,
   "limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
   "packInfo":{
-    "packname": "Felix",
-    "author": "Beta ✓"
+    "packname": "Aku",
+    "author": "Fani ✓"
   },
   "ignore": {
 		"directory": ["umum"]
